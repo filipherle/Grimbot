@@ -1,0 +1,5 @@
+[basic-config]
+# Your name or alias
+name = Filip
+# Here you can rename the bot!
+name_of_bot = GrimBot
